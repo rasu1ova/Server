@@ -3,27 +3,27 @@
       {
         "id": 1,
         "name": "Floral Maxi Dress",
-        "img": "dress1.jpg",
+        "img": "https://ae04.alicdn.com/kf/Hc26a3e0cdcb84319a74f6fcd5768ce6bq.jpg",
         "price": 49.99,
         "description": "A beautiful floral print maxi dress.",
-        "color": "Blue",
+        "color": "Black",
         "size": ["XS", "S", "M", "L", "XL"],
         "material": "Polyester"
       },
       {
         "id": 2,
         "name": "Striped Shift Dress",
-        "img": "dress2.jpg",
+        "img": "https://ae01.alicdn.com/kf/HTB12j3GNNnaK1RjSZFBq6AW7VXaT.jpg",
         "price": 39.99,
         "description": "A stylish striped shift dress for a casual look.",
-        "color": "Black/White",
+        "color": "Black/Ivory",
         "size": ["S", "M", "L"],
         "material": "Cotton"
       },
       {
         "id": 3,
         "name": "Embroidered Cocktail Dress",
-        "img": "dress3.jpg",
+        "img": "https://ae01.alicdn.com/kf/HTB1RQHHbhv1gK0jSZFFq6z0sXXak/ONSEME-Law-Student-Letter-T-Shirt-Women-s-Aesthetics-Potter-Tees-Harajuku-Tops-Female-Casual-Cotton.jpg",
         "price": 79.99,
         "description": "An elegant embroidered cocktail dress for special occasions.",
         "color": "Red",
@@ -33,7 +33,7 @@
       {
         "id": 4,
         "name": "Lace Sheath Dress",
-        "img": "dress4.jpg",
+        "img": "https://imgaz1.chiccdn.com/thumb/large/oaupload/newchic/images/33/09/b48c5f3a-4126-4baa-999f-e67a93f1c71d.jpg?s=702x936",
         "price": 59.99,
         "description": "A beautiful lace sheath dress for a sophisticated look.",
         "color": "White",
@@ -43,7 +43,7 @@
       {
         "id": 5,
         "name": "Printed Midi Dress",
-        "img": "dress5.jpg",
+        "img": "https://imgaz1.chiccdn.com/thumb/view/oaupload/newchic/images/D4/00/bdb0aebf-d3f9-47e0-b997-8080b4fc68b5.jpg?s=360x480",
         "price": 54.99,
         "description": "A vibrant printed midi dress with a flattering silhouette.",
         "color": "Yellow/Blue",
@@ -53,7 +53,7 @@
       {
         "id": 6,
         "name": "Off-Shoulder Maxi Dress",
-        "img": "dress6.jpg",
+        "img": "https://ae01.alicdn.com/kf/HTB140dEXUCF3KVjSZJnq6znHFXag/40th-Birthday-Vintage-1979-Letter-Print-Women-T-Shirt-Cotton-Short-Sleeve-Party-Tops-Gift-70s.jpg",
         "price": 69.99,
         "description": "An off-shoulder maxi dress with a bohemian vibe.",
         "color": "Pink",
@@ -63,7 +63,7 @@
       {
         "id": 7,
         "name": "Wrap Front Dress",
-        "img": "dress7.jpg",
+        "img": "https://ae01.alicdn.com/kf/H4ee766c7e5e646bcb78a0dc1d8a8b6fcz.jpg_q90.jpg",
         "price": 44.99,
         "description": "A versatile wrap front dress for various occasions.",
         "color": "Black",
@@ -73,7 +73,7 @@
       {
         "id": 8,
         "name": "Ruffled Mini Dress",
-        "img": "dress8.jpg",
+        "img": "https://lilicloth.com/image_cache/resize/670x890/image/catalog/product/2021-04-02/6f9b190faafe8b3776a2f49daeaab9e0.jpg",
         "price": 49.99,
         "description": "A playful ruffled mini dress with a flirty touch.",
         "color": "Purple",
@@ -83,16 +83,16 @@
       {
         "id": 9,
         "name": "Sleeveless A-Line Dress",
-        "img": "dress9.jpg",
+        "img": "https://ae01.alicdn.com/kf/H3ce3e84959f6423d87da3927512d4e3cO/2021-Summer-New-Style-Dandelion-Print-Top-Short-sleeved-Casual-Fashion-Simple-Round-Neck-T-shirt.jpg",
         "price": 34.99,
         "description": "A classic sleeveless A-line dress for a timeless look.",
-        "color": "Navy",
+        "color": "White",
         "size": ["XS", "S", "M"],
         "material": "Polyester"
       },{
         "id": 10,
         "name": "Polka Dot Wrap Dress",
-        "img": "dress10.jpg",
+        "img": "https://i.pinimg.com/originals/56/72/88/567288df1cd6492e9e9f1690624f6140.jpg",
         "price": 59.99,
         "description": "A charming polka dot wrap dress for a retro-inspired style.",
         "color": "Black/White",
@@ -102,7 +102,7 @@
       {
         "id": 11,
         "name": "Embroidered Maxi Dress",
-        "img": "dress11.jpg",
+        "img": "https://ae04.alicdn.com/kf/Hba73709ab6ea4d83b33316c3996d4a2aD.jpg",
         "price": 79.99,
         "description": "An exquisite embroidered maxi dress for a special occasion.",
         "color": "Blush",
@@ -112,7 +112,7 @@
       {
         "id": 12,
         "name": "Fit and Flare Dress",
-        "img": "dress12.jpg",
+        "img": "https://images.fairyseason.com/2022/01/07/529183_1_53495153_124.jpg",
         "price": 44.99,
         "description": "A flattering fit and flare dress for a feminine look.",
         "color": "Coral",
@@ -122,7 +122,7 @@
       {
         "id": 13,
         "name": "Printed Boho Dress",
-        "img": "dress13.jpg",
+        "img": "https://printbar.ru/upload/images/c8/c8ecdcd.jpg",
         "price": 54.99,
         "description": "A printed boho dress with a free-spirited vibe.",
         "color": "Multi",
@@ -132,17 +132,17 @@
       {
         "id": 14,
         "name": "Off-Shoulder Lace Dress",
-        "img": "dress14.jpg",
+        "img": "https://images.fairyseason.com/2022/06/08/534969_1_98514855_124.jpg",
         "price": 69.99,
         "description": "An elegant off-shoulder lace dress for a romantic look.",
-        "color": "Ivory",
+        "color": "Coral",
         "size": ["M", "L", "XL"],
         "material": "Nylon"
       },
       {
         "id": 15,
         "name": "Wrap Midi Dress",
-        "img": "dress15.jpg",
+        "img": "https://i.etsystatic.com/8533852/r/il/f92274/2214115146/il_1588xN.2214115146_cbwd.jpg",
         "price": 49.99,
         "description": "A stylish wrap midi dress with a modern appeal.",
         "color": "Gray",
@@ -152,7 +152,7 @@
       {
         "id": 16,
         "name": "Floral Print Mini Dress",
-        "img": "dress16.jpg",
+        "img": "https://img.joomprocdn.net/qs/e1/1j7t0wxku4hj74gg9cmy44j6rg48_original.jpeg",
         "price": 39.99,
         "description": "A cute floral print mini dress for a playful look.",
         "color": "Pink",
@@ -162,7 +162,7 @@
       {
         "id": 17,
         "name": "Ruffle Sleeve Dress",
-        "img": "dress17.jpg",
+        "img": "https://i5.walmartimages.com/asr/20bed840-cefa-4d91-b0b9-fe98f944e517.67a22def45f5e03cf9e7e917d1741ede.jpeg",
         "price": 44.99,
         "description": "A trendy ruffle sleeve dress for a fashionable style.",
         "color": "Blue",
@@ -172,7 +172,7 @@
       {
         "id": 18,
         "name": "Pleated Maxi Dress",
-        "img": "dress18.jpg",
+        "img": "https://ae01.alicdn.com/kf/U04085a4dbcf04e089c09abaed092d6bav.jpg",
         "price": 69.99,
         "description": "A sophisticated pleated maxi dress for an elegant look.",
         "color": "Emerald",
@@ -181,7 +181,7 @@
       },{
         "id": 19,
         "name": "Strapless Mermaid Gown",
-        "img": "dress19.jpg",
+        "img": "https://ae01.alicdn.com/kf/Hde9eff01c6a745959e667828e7513b98k/2020-Staycation-Aka.jpg_q50.jpg",
         "price": 129.99,
         "description": "A stunning strapless mermaid gown for a glamorous look.",
         "color": "Burgundy",
@@ -191,17 +191,17 @@
       {
         "id": 20,
         "name": "Embroidered Boho Dress",
-        "img": "dress20.jpg",
+        "img": "https://img.ltwebstatic.com/images3_pi/2020/05/11/15891973641ea3e5c55a914299af2b8a5fd0380f40_thumbnail_750x.jpg",
         "price": 59.99,
         "description": "A bohemian-inspired embroidered dress with a relaxed fit.",
-        "color": "Navy",
+        "color": "Emerald",
         "size": ["XS", "S", "M"],
         "material": "Cotton"
       },
       {
         "id": 21,
         "name": "Off-Shoulder Midi Dress",
-        "img": "dress21.jpg",
+        "img": "https://i.pinimg.com/originals/5f/35/15/5f35156ea6aa26ec3ffc9f34a5ca258e.jpg",
         "price": 49.99,
         "description": "An elegant off-shoulder midi dress with a timeless appeal.",
         "color": "Black",
@@ -211,7 +211,7 @@
       {
         "id": 22,
         "name": "Printed Fit and Flare Dress",
-        "img": "dress22.jpg",
+        "img": "https://ae03.alicdn.com/kf/H373a69f73cb24392ad2100aee5fbeb982.jpg",
         "price": 54.99,
         "description": "A printed fit and flare dress with a vibrant pattern.",
         "color": "Yellow",
@@ -221,7 +221,7 @@
       {
         "id": 23,
         "name": "Lace Cocktail Dress",
-        "img": "dress23.jpg",
+        "img": "https://i.etsystatic.com/17135342/r/il/d53bc6/1503875612/il_fullxfull.1503875612_pop1.jpg",
         "price": 89.99,
         "description": "A sophisticated lace cocktail dress for special events.",
         "color": "Ivory",
@@ -231,7 +231,7 @@
       {
         "id": 24,
         "name": "Pleated Wrap Dress",
-        "img": "dress24.jpg",
+        "img": "https://ae04.alicdn.com/kf/Hf2110edfef5c4fd0b811c117251bf9d1w/Que-sera-Whatever-will-The-future-is-not-ours.jpg",
         "price": 64.99,
         "description": "A chic pleated wrap dress for a modern and stylish look.",
         "color": "Mauve",
@@ -241,10 +241,10 @@
       {
         "id": 25,
         "name": "Floral Print Maxi Dress",
-        "img": "dress25.jpg",
+        "img": "https://ae04.alicdn.com/kf/H1793ea49d50741b0addd4c3e2003165fe.jpg",
         "price": 79.99,
         "description": "A romantic floral print maxi dress with a flowing silhouette.",
-        "color": "Pink/Blue",
+        "color": "Yellow",
         "size": ["M", "L", "XL"],
         "material": "Polyester"
       }
